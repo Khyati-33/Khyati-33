@@ -1,6 +1,5 @@
 <h3 align="center">
-  Hello Github wanderer! Welcome to my profile!
-  I'm Khyati.
+  Hello Github wanderer! Welcome to my land! I'm Khyati.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -13,22 +12,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/artsymaniac"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://artist.link/zobro23"><img width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
+  <a href="https://discord.com/users/1140199538473308333"><img width="32px" title="Discord" src="https://i.imgur.com/bUABr37.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
-
-<!-- DISCORD PRESENCE -->
-
-<p align="center">
-<a href="https://discord.com/users/1140199538473308333">
-<img title="Discord Presence" src="https://jestor.com/wp-content/uploads/2021/12/Discord.png" width=300" height="100">
-</a>
-</p>
 
 ## 🛠️ My favorite tools
 
