@@ -16,6 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="129bb4cd-59b4-4dc5-90e3-54e5431d57a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🛠️ My favorite tools
 
