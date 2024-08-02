@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello there! I'm Khyati.
+  Hello there! I'm Suraj.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
